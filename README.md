@@ -1,4 +1,4 @@
-# API Documentation
+# Jsoner
 
 The GoJSONer library provides utility functions to convert data into JSON format with optional field exclusions. It allows you to specify which fields should be excluded from the output using a dot notation path (`"field", "nested.field", ...`). The main functions provided are Marshal and MarshalIndent, which can generate standard and indented JSON output, respectively.
 
